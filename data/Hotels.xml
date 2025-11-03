@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/bubb4rd/cse445-assignment4/main/data/Hotels.xsd" version="1.0" encoding="UTF-8"?>
 <Hotels>
     <!-- Hotel 1: Example -->
     <Hotel Rating="4.2">
